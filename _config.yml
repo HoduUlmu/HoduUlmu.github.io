@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "아무거나 블로그"
+title                    : "김재훈의 블로그"
 title_separator          : "-"
-subtitle                 : "#컴알 #INU" # site tagline that appears below site title in masthead
-name                     : "DongHoon"
-description              : "An amazing website."
+subtitle                 : "#컴퓨터알고리즘 #INU" # site tagline that appears below site title in masthead
+name                     : "Jae Hoon"
+description              : "컴퓨터 알고리즘 사이트"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hxxn85/hxxn85.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "HoduUlmu/HoduUlmu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "hxxn85-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "HoduUlmu-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "DongHoon"
+  name             : "Jae Hoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Part-time Instructor"
-  location         : "Room No. 203"
-  email            : "dhkim_85@inu.ac.kr"
+  bio              : "Student"
+  location         : "Incheon"
+  email            : "snoopyd@inu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
